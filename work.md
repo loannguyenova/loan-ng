@@ -12,3 +12,5 @@ This Project is about Creating
 <img alt="Sapme image" src="/media/meo-goner.jpg">
 
 ## Project 2
+
+The continuation starts now....
